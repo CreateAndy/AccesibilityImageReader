@@ -1,0 +1,12 @@
+{
+  "name": "accessibility-image-describer",
+  "version": "1.0.0",
+  "description": "AI-powered image description tool for accessibility",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  },
+  "keywords": ["accessibility", "ai", "computer-vision", "assistive-technology"],
+  "author": "Your Name",
+  "license": "MIT"
+}
